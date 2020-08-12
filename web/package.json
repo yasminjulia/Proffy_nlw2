@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,11 @@
     ]
   },
   "devDependencies": {
-    "@types/react-router-dom": "^5.1.5"
-  }
+    "@types/react-router-dom": "^5.1.5",
+    "expo": "^38.0.9"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/yasminjulia/Proffys.git",
+  "author": "Julia Guimaraes <yasminjulllia@gmail.com>",
+  "license": "MIT"
 }
