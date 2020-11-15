@@ -4,7 +4,7 @@ ___
 ## __Sobre o projeto__
 
 ### __Descrição:__ 
-O projeto Proffy trata-se de uma plataforma online que visa conectar professores e alunos das mais variadas matérias, desenvolvido e idealizado pela RocketSeat através do Next level week 2, evento que tem o intuito de promover um desafio fullstack para desenvolvedores iniciantes.
+O projeto Proffy trata-se de uma plataforma online que visa conectar professores e alunos das mais variadas matérias; Desenvolvido e idealizado pela RocketSeat através do Next level week II, evento que tem o intuito de promover um desafio fullstack para desenvolvedores iniciantes.
 
 _Para visualizar a user interface [click aqui](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web?node-id=0%3A1)_
 
@@ -34,13 +34,12 @@ _Para visualizar a user interface [click aqui](https://www.figma.com/file/GHGS12
 - [x] Após as instalações anteriores, no diretório mobile, digite no seu terminal expo start e escaneie o QR code. 
 ___
 
-## __Layouts__ 
-### __web__
+## __Interfaces__ 
 
 ![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
-![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
-![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
-![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Screenshot_2.png)
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Screenshot_3.png)
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Screenshot_4.png)
 
 
 
