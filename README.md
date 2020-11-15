@@ -35,8 +35,12 @@ _Para visualizar a user interface [click aqui](https://www.figma.com/file/GHGS12
 ___
 
 ## __Layouts__ 
-### ⦁ web
-![]()
-### ⦁ mobile
+### __web__
+
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
+![home](https://github.com/yasminjulia/Proffy_nlw2/blob/master/assets/Home.png)
+
 
 
